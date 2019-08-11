@@ -15,6 +15,22 @@
     "captionLeft": 200,
     "captionRight": 1080
   },
+  "Podcast: 7GG": {
+    "width": 2440,
+    "height": 1373,
+    "maxDuration": 10800,
+    "pattern": "wave",
+    "waveTop": 1200,
+    "waveBottom": 1310,
+    "captionTop": 54,
+    "captionFont": "400 52px 'Lato Regular'",
+    "captionLineHeight": 52,
+    "captionLineSpacing": 7,
+    "captionLeft": 128,
+    "captionRight": 2270
+    "backgroundImage": "Podcast-7GG.png",
+    "foregroundColor": "#cc0000"
+  },
   "Basic": {
     "backgroundColor": "#eee",
     "foregroundColor": "#de1e3d"
